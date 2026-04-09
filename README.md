@@ -15,5 +15,4 @@ Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticab
 - Data Analysis in Animal Science 📊
 
 ---
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandin23&show_icons=true&theme=tokyonight)
+
