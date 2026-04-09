@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Gandin23/Gandin23/blob/main/WhatsApp%20Image%202024-07-24%20at%2016.46.33.jpeg?raw=true" width="100%" style="border-radius: 10px;">
-</p>
-
-# Hi, I'm Gabriel Gandin 👋
 # Hi, I'm Gabriel Gandin 👋
 
 Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticabal/SP). Currently researching phosphorus balance and sustainability in shrimp farming (carciniculture).
