@@ -3,7 +3,7 @@
 </p>
 # Hi, I'm Gabriel Gandin 👋
 
-Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticabal/SP). Currently researching phosphorus balance and sustainability in shrimp farming (carciniculture).
+Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticabal/SP). Currently researching phosphorus balance and sustainability in prawn farming (carciniculture).
 
 ## 🔗 Connect with me
 
