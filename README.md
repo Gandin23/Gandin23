@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Gandin23/Gandin23/blob/main/WhatsApp%20Image%202024-07-24%20at%2016.46.33.jpeg?raw=true" style="width: 100%; max-height: 200px; object-fit: cover; object-position: 50% 50%; border-radius: 10px;">
-</p>
+<div style="width: 100%; height: 220px; background-image: url('https://github.com/Gandin23/Gandin23/blob/main/WhatsApp%20Image%202024-07-24%20at%2016.46.33.jpeg?raw=true'); background-position: center; background-repeat: no-repeat; border-radius: 10px;"></div>
 
 # Hi, I'm Gabriel Gandin 👋
 
