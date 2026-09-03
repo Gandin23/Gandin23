@@ -9,7 +9,7 @@ Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticab
 ---
 
 ## 💻 Featured Application
-🌐 **[Phosphorus Mass Balance Web App](https://seu-app.streamlit.app)** *(Click to launch)*
+🌐 **[Phosphorus Mass Balance Web App]([https://seu-app.streamlit.app](https://softwareaquiculturacaunesp-kwkaersconr7nvfzspxdet.streamlit.app/))** *(Click to launch)*
 
 > 🔒 **Access Note:** The application is deployed live, but user authentication is required to protect unpublished research data and intellectual property. If you wish to test the software for academic evaluation or collaboration, please request demo credentials via email (**gabriel.gandin@unesp.br**). The underlying source code remains in a private repository pending article publication.
 
