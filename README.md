@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gandin23/Gandin23/blob/main/WhatsApp%20Image%202024-07-24%20at%2016.46.33.jpeg?raw=true" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/Gandin23/Gandin23/blob/main/WhatsApp%20Image%202024-07-24%20at%2016.46.33.jpeg?raw=true" width="100%" height="320px" style="object-fit: cover; object-position: center; border-radius: 10px;">
 </p>
 
 # Hi, I'm Gabriel Gandin 👋
@@ -8,16 +8,18 @@ Animal Scientist (USP/FZEA) and MSc Student in Aquaculture at CAUNESP (Jaboticab
 
 ---
 
+## 💻 Featured Application
+🌐 **[Phosphorus Mass Balance Web App](https://seu-app.streamlit.app)** *(Click to launch)*
+
+> 🔒 **Access Note:** The application is deployed live, but user authentication is required to protect unpublished research data and intellectual property. If you wish to test the software for academic evaluation or collaboration, please request demo credentials via email (**gabriel.gandin@unesp.br**). The underlying source code remains in a private repository pending article publication.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💻 Featured Projects
-* **Phosphorus Mass Balance App (IMTA):** Interactive web application built with Streamlit and Python for phosphorus balance modeling and automation in aquaculture systems. *(Repositories are private during article submission).*
 
 ---
 
